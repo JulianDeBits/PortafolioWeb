@@ -290,7 +290,7 @@
             width: 400px;
             background-color: #ddd;
             display: flex;
-            align-items: top;
+            align-items: center;
             justify-content: center;
             color: var(--text-light);
         }
